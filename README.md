@@ -1,4 +1,4 @@
-## Hi there i am Mustafa Msallam 👋
+## Hi there I'm MustafaMsallam 👋
 
 <!--
 **MustafaMsallam/MustafaMsallam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
