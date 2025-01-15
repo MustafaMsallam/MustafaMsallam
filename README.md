@@ -15,9 +15,9 @@ As I study software engineering, I enjoy studying software and my love and keen 
 </a>
 <a href="https://expressjs.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
-</a>
-#### Front-End Development
-Front-End Development <br/>
+</a><br/>
+<h1>Front-End Development
+ <</h1> br/>
 <a href="https://reactjs.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
 </a>
